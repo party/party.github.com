@@ -3,3 +3,4 @@
 - improve hue app
 - resurrect vine tv app
 - add vine tv app to /party list
+- create credits (based on http://adamschwartz.co/face)
