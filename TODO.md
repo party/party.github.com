@@ -1,0 +1,5 @@
+- tv app hud
+- rename tv app
+- improve hue app
+- resurrect vine tv app
+- add vine tv app to /party list
