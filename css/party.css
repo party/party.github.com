@@ -1,0 +1,35 @@
+.party {
+    height: 100%;
+    width: 100%
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+.content {
+    height: 100%;
+    width: 100%;
+    -webkit-animation: party-base-hue-rotate 10s linear infinite;
+}
+
+.content-inner {
+    display: table;
+    height: 100%;
+    width: 100%;
+}
+
+.content-inner-inner {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+}
+
+.content .why-paragraph {
+    margin-bottom: 0;
+}
+
+.content .why-paragraph a {
+    color: inherit;
+    text-decoration: none;
+}
