@@ -69,8 +69,8 @@ iframe {
     position: absolute;
     top: 0;
     left: 0;
-    -webkit-transform: translate3d(0, 300%, 0);
-    -webkit-transition: -webkit-transform .8s;
+    -webkit-transform: translate3d(0, 100%, 0);
+    -webkit-transition: -webkit-transform .6s;
     background: rgba(0, 0, 0, 0.9);
     height: 100%;
     width: 100%;
@@ -79,6 +79,11 @@ iframe {
     font-size: 1.5em;
     text-align: center;
     -webkit-animation: party-base-hue-rotate 10s linear infinite;
+    opacity: 0;
+}
+
+.loaded .party .info .content {
+    opacity: 1;
 }
 
 .party .info:hover .content {
