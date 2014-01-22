@@ -83,6 +83,7 @@ body {
     font-weight: 100;
     text-transform: uppercase;
     color: #fff;
+    -webkit-font-smoothing: antialiased;
 }
 
 html, body {
