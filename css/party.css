@@ -9,6 +9,7 @@
     height: 100%;
     width: 100%;
     -webkit-animation: party-base-hue-rotate 10s linear infinite;
+    font-size: 1.5em;
 }
 
 .content-inner {
